@@ -32,7 +32,7 @@ public class Exam2 extends JFrame {
     }
  
     public Exam2() {
-        setIconImage(Toolkit.getDefaultToolkit().getImage("src\\coffee_icon.jpg"));
+        setIconImage(Toolkit.getDefaultToolkit().getImage("res\\coffee_icon.jpg"));
         setTitle("Red Devil Coffee Rewards");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setBounds(100, 100, 365, 185);
